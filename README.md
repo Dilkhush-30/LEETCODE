@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dilkhush-30/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dilkhush-30/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dilkhush-30/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Dilkhush-30/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Dilkhush-30/LEETCODE/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/Dilkhush-30/LEETCODE/tree/master/0831-masking-personal-information) |
@@ -166,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dilkhush-30/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dilkhush-30/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dilkhush-30/LEETCODE/tree/master/1354-construct-target-array-with-multiple-sums) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
