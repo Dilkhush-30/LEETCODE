@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Dilkhush-30/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Dilkhush-30/LEETCODE/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/Dilkhush-30/LEETCODE/tree/master/0686-repeated-string-match) |
 | [0831-masking-personal-information](https://github.com/Dilkhush-30/LEETCODE/tree/master/0831-masking-personal-information) |
 ## Sliding Window
 |  |
@@ -171,12 +172,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Dilkhush-30/LEETCODE/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Dilkhush-30/LEETCODE/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Dilkhush-30/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Dilkhush-30/LEETCODE/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Dilkhush-30/LEETCODE/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
